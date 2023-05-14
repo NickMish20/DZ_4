@@ -2,7 +2,6 @@
 
 package DZ_4;
 
-import java.util.Collections;
 import java.util.LinkedList;
 
 public class Zadacha_1 {
